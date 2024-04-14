@@ -1,0 +1,7 @@
+## Concat
+
+Harta de editores de PDF que una vez que ingresas todo te quieren cobrar, tardan años o te roban la información, hice este programa de 3 lineas que viene a solucionarte la vida.
+
+Uso: python[3] concat.py <output_path> [folder_path]
+
+Por defecto concatena los archivos en el directorio en el que corrés el programa.
