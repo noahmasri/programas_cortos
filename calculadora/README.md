@@ -1,0 +1,1 @@
+práctica para un examen. este paquete construye un objeto complejo expresion usando el patrón builder (o algo así), en conjunto con un simple factory. se usa un composite para representar las distintas expresiones.
